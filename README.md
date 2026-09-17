@@ -1,5 +1,9 @@
 # Quant Data MCP Server
 
+[![PyPI](https://img.shields.io/pypi/v/zizhenghua-mcp.svg)](https://pypi.org/project/zizhenghua-mcp/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/pypi/pyversions/zizhenghua-mcp.svg)](https://pypi.org/project/zizhenghua-mcp/)
+
 MCP Server for [Quant Data API](https://zizhenghua.com).
 
 让 Claude Desktop / Cursor 等 MCP 客户端能直接调 A 股数据。
@@ -20,7 +24,7 @@ MCP Server for [Quant Data API](https://zizhenghua.com).
 ## 📦 安装
 
 ```bash
-pip install quant-data-mcp
+pip install zizhenghua-mcp
 ```
 
 或从源码：
