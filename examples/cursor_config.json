@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "quant-data": {
+      "command": "python",
+      "args": ["-m", "quant_data_mcp.server"],
+      "env": {
+        "QUANT_API_KEY": ""
+      }
+    }
+  }
+}
