@@ -149,6 +149,12 @@ python -m quant_data_mcp.server
 
 ---
 
+## 💬 讨论
+
+有问题？来 [GitHub Discussions](https://github.com/Zizhenghua/quant-data-mcp/discussions) 提问。
+
+---
+
 ## 📚 相关项目
 
 - [quant-data-sdk](https://github.com/Zizhenghua/quant-data-sdk) — Python / JS SDK
